@@ -197,7 +197,7 @@ def display_evaluation_results(mcqs_df, eval_file):
 
 def main():
     """Main application function."""
-    st.title("AI Evaluation Simulator")
+    st.title("AI Evaluation")
     initialize_sidebar()
 
     st.markdown("### Step 1: Upload MCQs")
