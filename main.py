@@ -81,7 +81,7 @@ def initialize_sidebar():
                         </a>
                     </li>
                     <li style='margin: 0.5rem 0;'>
-                        <a href='https://nas.io/curious-pm' class='sidebar-link'>
+                        <a href='https://curious.pm' class='sidebar-link'>
                             📊 By:Curious-PM
                         </a>
                     </li>
